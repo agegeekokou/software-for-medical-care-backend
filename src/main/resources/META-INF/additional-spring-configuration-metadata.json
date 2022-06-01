@@ -1,0 +1,32 @@
+{"properties": [
+  {
+    "name": "softwareformedicalcare.security.jwt.expiration",
+    "type": "java.lang.String",
+    "description": "A description for 'softwareformedicalcare.security.jwt.expiration'"
+  },
+  {
+    "name": "softwareformedicalcare.security.jwt.issuer",
+    "type": "java.lang.String",
+    "description": "A description for 'softwareformedicalcare.security.jwt.issuer'"
+  },
+  {
+    "name": "softwareformedicalcare.security.jwt.zoneId",
+    "type": "java.lang.String",
+    "description": "A description for 'softwareformedicalcare.security.jwt.zoneId'"
+  },
+  {
+    "name": "softwareformedicalcare.security.jwt.secret",
+    "type": "java.lang.String",
+    "description": "A description for 'softwareformedicalcare.security.jwt.secret'"
+  },
+  {
+    "name": "softwareformedicalcare.cors.allowed-origins",
+    "type": "java.lang.String",
+    "description": "A description for 'softwareformedicalcare.cors.allowed-origins'"
+  },
+  {
+    "name": "softwareformedicalcare.cors.allowed-methods",
+    "type": "java.lang.String",
+    "description": "A description for 'softwareformedicalcare.cors.allowed-methods'"
+  }
+]}
